@@ -16,3 +16,23 @@ img {
   display: block;
   max-width: 100%;
 }
+
+#datetime-picker {
+  font-size: 50px;
+}
+button[data-start] {
+  font-size: 50px;
+  width: 200px;
+  margin-left: 20px;
+}
+button[data-stop] {
+  font-size: 50px;
+  width: 200px;
+  margin-left: 20px;
+}
+
+.timer {
+  font-size: 70px;
+  display: flex;
+  gap: 20px;
+}
